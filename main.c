@@ -2,7 +2,6 @@
 
 int main(void) 
 {
-    printf("HelloWorld\n");
-    printf("Hello SHU\n");
+    printf("Welcome to C programming!\n"); 
     return 0;
 }
